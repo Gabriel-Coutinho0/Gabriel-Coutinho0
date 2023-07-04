@@ -1,10 +1,7 @@
 # Hello, my name is Gabriel Coutinho.
 
 <div>
-<a href="https://github.com/Gabriel-Coutinho0">
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Coutinho0&layout=compact&langs_count=7&theme=dracula" />
-<br>
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Coutinho0&show_icons=true&theme=dracula&count_private=true" />
+
 </div>
 
 
